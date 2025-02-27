@@ -8,8 +8,8 @@ for the City of Vienna's LCRR/SLI team members. The hub provides accurate and up
 The hub site demonstrates a proficient and skilled use of Project Management, HTML, and CSS to develope, design, create, and implement a web/intranet site.
 
 <h2>Tools Used</h2>
-  • Visual Studio Code
-  • HTML
+  • Visual Studio Code</br>
+  • HTML</br>
   • CSS
 
 <h2>Screenshots</h2>
