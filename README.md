@@ -1,14 +1,11 @@
 <h1>LCRR & SLI Hub</h1>
 
 <h2>Description</h2>
-The LCRR and SLI hub was created out of necessity. I am part of the Lead and Copper Rule Revisions (LCRR) and Service Line Inventory (SLI) project team
-for the City of Vienna (Public Works). During team meetings, confusion among team members in relation to EPA requirements was evident. Members were using
-second-hand and outdated resources to relay information. Often, members were unsure of where to get up-to-date and first hand information. The LCRR and SLI hub site 
-remedies this problem. The site provides accurate and up-to-date resources for nearly every aspect of the LCRR/SLI project. 
+The LCRR and SLI hub was created out of necessity. I created the Lead and Copper Removal and Service Line Inventory internal site 
+for the City of Vienna's LCRR/SLI team members. The hub provides accurate and up-to-date resources for nearly every aspect of the LCRR/SLI project. 
 
 <h2>Skills</h2>
-The hub site demonstrates a proficient and skilled use of Project Management, HTML, and CSS, to develope, design, create, and implement a web/intranet site. A problem 
-was encountered and a solution was presented.
+The hub site demonstrates a proficient and skilled use of Project Management, HTML, and CSS to develope, design, create, and implement a web/intranet site.
 
 <h2>Tools Used</h2>
   • Visual Studio Code
